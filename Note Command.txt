@@ -1,0 +1,18 @@
+git log
+git log -p
+git log -p -5
+git log --stat
+git log --pretty=oneline
+git log --pretty=short
+git log --pretty=full
+git log --since=2.days
+git log --since=2.weeks
+git log --since=2.months
+git log --since=2.years
+git log --pretty=format:"%h -- %an" for name 
+git log --pretty=format:"%h -- %an" for Email 
+For more info https://git-scm.com/docs/git-log
+
+git commit --amend
+
+type i and then comment what you want press esc:wq (for change commit)
